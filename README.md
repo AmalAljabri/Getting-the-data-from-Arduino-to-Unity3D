@@ -1,2 +1,2 @@
-# Getting-the-data-from-Arduino-to-Unity3D
+# Getting the data from Arduino to Unity3D
 
